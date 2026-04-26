@@ -1,4 +1,4 @@
-NAME:eivy singla
+NAME: rivya singla
 
 PRN: 25070123091
 
